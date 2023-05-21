@@ -1,2 +1,2 @@
 # GDSC GIT SESSION
-hey guys
+hey guys I'm conducting a session on Git and Github!
