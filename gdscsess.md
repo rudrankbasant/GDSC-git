@@ -3,3 +3,6 @@ hey guys I'm conducting a session on Git and Github!
 
 ## About Rudrank
 Hey I'm an App Developer at GDSC-VIT!
+
+## About me
+I'm Dhruv Shah a backend developer!
